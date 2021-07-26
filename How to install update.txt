@@ -1,0 +1,17 @@
+Install the update manually
+***************************
+CAUTION: Author is not responsible for any unwanted or accidentally lost your information.
+***************************
+If you’re running Orion - Multilingual advance stock manager with Point of sale system and you don’t have the update yet, 
+you can manually install the update by following these steps:
+-------------------------------------------------------------
+01. If Orion - Multilingual advance stock manager with Point of sale system is running on your system, close it.
+02. Go to the folder in where the software is installed.
+03. Backup Upload & Database (If any) 
+04. Go to Control Panel\All Control Panel Items\Programs and Features
+05. Uninstall Orion from control panel.
+06. Now install Orion new update version.
+07. Go to the folder in where the software is installed.
+08. Replace Backup Upload & Database (If any) 
+-------------------------------------------------------------
+For technical support you can contact us via: Email: linkbirdtech@gmail.com

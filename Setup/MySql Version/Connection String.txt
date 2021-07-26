@@ -1,0 +1,1 @@
+server=localhost;uid=root;pwd=;database=dborion;
